@@ -13,3 +13,6 @@ Since it's a huge dataset with large variety of images i.e., 270 it's a good ide
 Used ADAM optimizer and accuracy as the evaluation metrics and 20 epochs to train the model.
 
 **Results are amazing we got training accuracy of 97% and testing accuracy of 94.3%. This shows that although our model is performing execptionally well on training set it is not overfitted.**
+
+
+**It's not a good idea to add training files to github because that will bloat the repo size when someone want to use it. So please visit the above provided kaggle link and help yourself.**
